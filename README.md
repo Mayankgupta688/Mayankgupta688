@@ -1,5 +1,5 @@
 ### Hi There 👋
-I am Mayank Gupta, working as Senior Software Developer in ION Trading.
+I am Mayank Gupta, working as Senior Software Trainer
 
 I am having around 10 years of experience with different Frontend and Backend Technologies. Also working as a Frelance Corporate and Online Trainer and Mentoring for Multiple Technology
 
