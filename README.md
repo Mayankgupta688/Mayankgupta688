@@ -1,7 +1,7 @@
 ### Hi There 👋
 I am Mayank Gupta, working as Senior Software Trainer
 
-I am having around 13 years of experience with different Frontend and Backend Technologies. Also working as a Frelance Corporate and Online Trainer and Mentoring for Multiple Technology
+I am having around 13 years of experience with different Frontend and Backend Technologies. Also working as a Frelance Corporate and Online Trainer and Mentoring for Multiple Technology. Working full time as a Senior Architect.
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-TechnoFunnel-red)](https://www.youtube.com/technofunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-MayankGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayank-gupta-a34ba056/)](https://www.linkedin.com/in/mayank-gupta-a34ba056/)
